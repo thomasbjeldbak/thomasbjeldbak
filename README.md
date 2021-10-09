@@ -36,8 +36,6 @@
 
   <summary>:zap: Recent GitHub Activity</summary>
   
-<br />
-
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/Eshes1509/portfolio-sass/issues/2) in [Eshes1509/portfolio-sass](https://github.com/Eshes1509/portfolio-sass)
 2. ❗️ Closed issue [#2](https://github.com/Eshes1509/portfolio-sass/issues/2) in [Eshes1509/portfolio-sass](https://github.com/Eshes1509/portfolio-sass)
@@ -50,7 +48,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eshes1509)](https://github.com/eshes1509/github-readme-stats)
 
-<br />
 <br />
 
 [twitter]: https://twitter.com/ThomasBjeldbakM
