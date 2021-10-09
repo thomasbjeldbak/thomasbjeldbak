@@ -29,4 +29,4 @@
 
 [twitter]: https://twitter.com/ThomasBjeldbakM
 [instagram]: https://www.instagram.com/eshes1509/
-[linkedin]: https://www.linkedin.com/in/thomas-bjeldbak-madsen-251643161/
+[linkedin]: www.linkedin.com/in/thomasbjeldbakmadsen
