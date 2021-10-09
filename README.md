@@ -1,14 +1,11 @@
 ### Hi there, I'm Thomas Madsen 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ThomasBjeldbakM?style=social)](https://twitter.com/ThomasBjeldbakM)
 
 ## I'm a Student at Aalborg University!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Create my own personal website
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
