@@ -27,6 +27,28 @@
 <br />
 <br />
 
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#2](https://github.com/Eshes1509/portfolio-sass/issues/2) in [Eshes1509/portfolio-sass](https://github.com/Eshes1509/portfolio-sass)
+2. ❗️ Closed issue [#2](https://github.com/Eshes1509/portfolio-sass/issues/2) in [Eshes1509/portfolio-sass](https://github.com/Eshes1509/portfolio-sass)
+3. ❌ Closed PR [#11](https://github.com/Eshes1509/free-developer-resources/pull/11) in [Eshes1509/free-developer-resources](https://github.com/Eshes1509/free-developer-resources)
+4. 🗣 Commented on [#11](https://github.com/Eshes1509/free-developer-resources/issues/11) in [Eshes1509/free-developer-resources](https://github.com/Eshes1509/free-developer-resources)
+5. 🎉 Merged PR [#10](https://github.com/Eshes1509/free-developer-resources/pull/10) in [Eshes1509/free-developer-resources](https://github.com/Eshes1509/free-developer-resources)
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Eshes1509&show_icons=true&hide_border=true" />
+
+</details>
+
 [twitter]: https://twitter.com/ThomasBjeldbakM
 [instagram]: https://www.instagram.com/eshes1509/
 [linkedin]: www.linkedin.com/in/thomasbjeldbakmadsen
