@@ -46,6 +46,14 @@
 
 </details>
 
+<br />
+
+---
+
+### Top langauges used on my GitHub profile:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eshes1509)](https://github.com/eshes1509/github-readme-stats)
+
 [twitter]: https://twitter.com/ThomasBjeldbakM
 [instagram]: https://www.instagram.com/eshes1509/
 [linkedin]: www.linkedin.com/in/thomasbjeldbakmadsen
