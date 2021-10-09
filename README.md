@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ThomasBjeldbakM?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/ThomasBjeldbakM)
 
-## I'm a Student at Aalborg University!!
+## I'm a Student at Aalborg University! 📚
 
 - 🌱 I’m currently studying Software on 1. Semester
 - 🥅 2021 Goals: Create my own personal website
