@@ -1,6 +1,6 @@
-### Hi there, I'm Thomas Madsen 👋
+### Hi there, I'm Thomas Bjeldbak Madsen 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ThomasBjeldbakM?style=social)](https://twitter.com/ThomasBjeldbakM)
+[![Twitter Follow](![Twitter Follow](https://img.shields.io/twitter/follow/ThomasBjeldbakM?color=1DA1F2&logo=Twitter&style=for-the-badge))](https://twitter.com/ThomasBjeldbakM)
 
 ## I'm a Student at Aalborg University!!
 
@@ -18,11 +18,11 @@
 
 ### Languages currently learning:
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Swift" width="85px" src="https://camo.githubusercontent.com/ca12405560eda1428010c0094efcf0ef2e9f2339e6f6c6e08b9dc0a12c97ca25/68747470733a2f2f73776966742e6f72672f6173736574732f696d616765732f73776966742e737667" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
+<img align="left" alt="HTML5" width="26px" src="![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)" />
+<img align="left" alt="CSS3" width="26px" src="![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)" />
+<img align="left" alt="JavaScript" width="26px" src="![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)" />
+<img align="left" alt="Swift" width="85px" src="![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)" />
+<img align="left" alt="C" width="26px" src="![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)" />
 
 <br />
 <br />
@@ -33,7 +33,6 @@
 
 <img align="left" alt="Eshes1509's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Eshes1509&show_icons=true&hide_border=true" />
 
-<details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
@@ -43,10 +42,6 @@
 4. 🗣 Commented on [#11](https://github.com/Eshes1509/free-developer-resources/issues/11) in [Eshes1509/free-developer-resources](https://github.com/Eshes1509/free-developer-resources)
 5. 🎉 Merged PR [#10](https://github.com/Eshes1509/free-developer-resources/pull/10) in [Eshes1509/free-developer-resources](https://github.com/Eshes1509/free-developer-resources)
 <!--END_SECTION:activity-->
-
-</details>
-
----
 
 ### Top langauges used on my GitHub profile:
 
