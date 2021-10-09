@@ -21,7 +21,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Swift" width="80px" src="https://camo.githubusercontent.com/ca12405560eda1428010c0094efcf0ef2e9f2339e6f6c6e08b9dc0a12c97ca25/68747470733a2f2f73776966742e6f72672f6173736574732f696d616765732f73776966742e737667" />
+<img align="left" alt="Swift" width="85px" src="https://camo.githubusercontent.com/ca12405560eda1428010c0094efcf0ef2e9f2339e6f6c6e08b9dc0a12c97ca25/68747470733a2f2f73776966742e6f72672f6173736574732f696d616765732f73776966742e737667" />
 
 <br />
 <br />
