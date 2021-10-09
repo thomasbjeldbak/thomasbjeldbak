@@ -29,6 +29,10 @@
 
 ---
 
+<summary>:zap: GitHub Stats</summary>
+
+<img align="left" alt="Eshes1509's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Eshes1509&show_icons=true&hide_border=true" />
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -39,13 +43,6 @@
 4. 🗣 Commented on [#11](https://github.com/Eshes1509/free-developer-resources/issues/11) in [Eshes1509/free-developer-resources](https://github.com/Eshes1509/free-developer-resources)
 5. 🎉 Merged PR [#10](https://github.com/Eshes1509/free-developer-resources/pull/10) in [Eshes1509/free-developer-resources](https://github.com/Eshes1509/free-developer-resources)
 <!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Eshes1509's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Eshes1509&show_icons=true&hide_border=true" />
 
 </details>
 
