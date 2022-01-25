@@ -5,7 +5,7 @@
 ## I'm a Student at Aalborg University! 📚
 
 - 🌱 I’m currently studying Software on 1. Semester
-- 🥅 2021 Goals: Create my own personal website
+- 🥅 2022 Goals: Create my own personal website
 - ⚡ Fun fact: I love to game and hang out with my friends
 
 ### Connect with me:
