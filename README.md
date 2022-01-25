@@ -4,7 +4,7 @@
 
 ## I'm a Student at Aalborg University! 📚
 
-- 🌱 I’m currently studying Software on 1. Semester
+- 🌱 I’m currently studying Software on 2nd Semester at Aalborg University, Denmark
 - 🥅 2022 Goals: Create my own personal website
 - ⚡ Fun fact: I love to game and hang out with my friends
 
