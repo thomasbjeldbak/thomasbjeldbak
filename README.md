@@ -1,6 +1,6 @@
 ### Hi there, I'm Thomas Bjeldbak Madsen 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/thomasbjeldbak?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/ThomasBjeldbakM)
+[![Twitter Follow](https://img.shields.io/twitter/follow/thomasbjeldbak?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/thomasbjeldbak)
 
 ## I'm a Student at Aalborg University! 📚
 
