@@ -33,11 +33,11 @@
 
 <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="Eshes1509's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Eshes1509&show_icons=true&hide_border=true" />
+<img align="left" alt="thomasbjeldbak's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thomasbjeldbak&show_icons=true&hide_border=true" />
 
 ### Top langauges used on my GitHub profile:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eshes1509&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasbjeldbak&theme=tokyonight)
 
 <br />
 
