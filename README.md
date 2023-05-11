@@ -42,5 +42,5 @@
 <br />
 
 [twitter]: https://twitter.com/ThomasBjeldbakM
-[instagram]: https://www.instagram.com/eshes1509/
+[instagram]: https://www.instagram.com/thomasbjeldbak/
 [linkedin]: https://www.linkedin.com/in/thomasbjeldbakmadsen
