@@ -2,9 +2,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/thomasbjeldbak?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/thomasbjeldbak)
 
-## I'm a Student at Aalborg University! 📚
+## I'm a Student at Aalborg University & Junior Software Developer at Dynaway! 📚
 
-- 🌱 I’m currently studying Software on the 4th Semester at Aalborg University, Denmark
+- 🌱 I’m currently studying Software on the 5th Semester at Aalborg University, Denmark
 - 🥅 2023 Goals: Create my own personal website
 - ⚡ Fun fact: I love to game and hang out with my friends
 
