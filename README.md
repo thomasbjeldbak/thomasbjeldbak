@@ -4,8 +4,7 @@
 
 ## I'm a Student at Aalborg University & Junior Software Developer at Dynaway! 📚
 
-- 🌱 I’m currently studying Software on the 6th Semester at Aalborg University, Denmark
-- 🥅 2024 Goals: Finish my bachelor!
+- 🌱 I’m currently studying Software Engineering at RMIT, Melbourne, Australia
 - ⚡ Fun fact: I love to game and hang out with my friends!
 
 ### Connect with me:
