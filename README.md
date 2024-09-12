@@ -1,19 +1,6 @@
-### Hi there, I'm Thomas Bjeldbak Madsen 👋
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/thomasbjeldbak?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/thomasbjeldbak)
-
-## I'm a Student at RMIT & Junior Software Developer at Dynaway! 📚
-
-- 🌱 I’m currently studying Software Engineering at RMIT, Melbourne, Australia
+# Hi there, I'm Thomas Bjeldbak Madsen 👋
+- 🌱 I’m currently studying Software Engineering at RMIT University, Melbourne, Australia
 - ⚡ Fun fact: I love to game and hang out with my friends!
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages currently learning:
 
@@ -30,16 +17,8 @@
 
 ---
 
-<summary>:zap: GitHub Stats</summary>
+### :zap: GitHub Stats
 
 <img align="left" alt="thomasbjeldbak's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thomasbjeldbak&show_icons=true&hide_border=true" />
 
-### Top langauges used on my GitHub profile:
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasbjeldbak&theme=tokyonight)
-
-<br />
-
-[twitter]: https://twitter.com/ThomasBjeldbakM
-[instagram]: https://www.instagram.com/thomasbjeldbak/
-[linkedin]: https://www.linkedin.com/in/thomasbjeldbakmadsen
